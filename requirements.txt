@@ -1,0 +1,28 @@
+# Core LLM and Transformers
+transformers
+torch
+mistral_inference
+
+# Summarization and Hugging Face tools
+huggingface_hub
+sentencepiece  # needed by some HF models
+
+# PDF parsing
+llama-index
+PyMuPDF
+
+# Web UI
+gradio
+
+# Tool functions
+pandas
+deep-translator
+serpapi
+requests
+google-search-results
+
+# Utility
+python-dotenv
+
+# Optional (for logging or future use)
+tqdm

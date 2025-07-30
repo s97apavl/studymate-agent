@@ -1,0 +1,31 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.env
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Gradio temp files
+gradio_cached_examples/
+
+# PDFs and temp files
+*.pdf
+*.tmp
